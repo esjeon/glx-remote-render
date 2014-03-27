@@ -1,6 +1,6 @@
 // server.c - create a window and a glx context, and print their XIDs
 // 
-// Copyright © 2013 Eon S. Jeon <esjeon@live.com>
+// Copyright © 2013 Eon S. Jeon <esjeon@hyunmu.am>
 // 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the “Software”), to
